@@ -1,2 +1,4 @@
 # hello_world
-Just another repository
+Hello, Sunshine!
+
+Ron here learning GIT
